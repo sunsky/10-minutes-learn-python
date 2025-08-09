@@ -1,9 +1,10 @@
+# 10-minutes-learn-python
+10分钟学会 python
+
 
 ---
 
 ```markdown
-# Python 简明语法教程
-
 > 一份简洁、清晰、实用的 Python 入门速查手册，涵盖基础语法、数据结构、函数、类与常用技巧。
 
 ---
